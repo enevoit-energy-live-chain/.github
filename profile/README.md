@@ -1,6 +1,6 @@
-# EN_EVO energy-live-chain 
+# RIT energy-live-chain 
 
-Welcome to the documentation of the EN_EVO energy-live-chain GitHub organization.
+Welcome to the documentation of the RIT energy-live-chain GitHub organization.
 
 ### Organization Overview
 
